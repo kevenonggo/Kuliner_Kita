@@ -1,5 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/layout/activity_main.xml" value="0.2857142857142857" />
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/layout/fragment_beranda.xml" value="0.2706140350877193" />
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/layout/fragment_disukai.xml" value="0.2706140350877193" />
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/layout/fragment_keranjang.xml" value="0.2706140350877193" />
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/menu/menu_bottom_navigation.xml" value="0.2787878787878788" />
+        <entry key="..\:/1. Universitas MDP/pabsi5a/GITHUB-PAB1/Kuliner_Kita/app/src/main/res/menu/menu_top_option.xml" value="0.2787878787878788" />
+      </map>
+    </option>
+  </component>
   <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
     <output url="file://$PROJECT_DIR$/build/classes" />
   </component>
